@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://curlware.com/">
-  <img src="./assets/banner.svg" alt="Curlware – Software house and digital agency building high-converting websites, SaaS, ERP and AI automation" width="100%">
+  <img src="https://evalery-cdn.sgp1.cdn.digitaloceanspaces.com/files/banner.png" alt="Curlware – Software house and digital agency building high-converting websites, SaaS, ERP and AI automation" width="100%">
 </a>
 
 # Curlware: Web Development, SaaS & AI Automation Company
